@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Jonathan Lazar</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>E53EC1CF336F0BB461A34EA370622C63</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/images/9780128093436_FC.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>F01AA8668CC42E9ACA998148EACB0172</string>
+		<key>page-progression-direction</key>
+		<string>ltr</string>
+		<key>publisher-unique-id</key>
+		<string>urn:isbn:978-0-12-809343-6</string>
+		<key>unique-id</key>
+		<integer>-2251953521593504118</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Research Methods in Human-Computer Interaction</string>
+	<key>playlistName</key>
+	<string>Research Methods in Human-Computer Interaction</string>
+	<key>releaseDate</key>
+	<string>2024-05-09</string>
+</dict>
+</plist>
