@@ -113,7 +113,8 @@
    <item id="Vid4" href="videos/mmc04-02-9780323917544.mp4" media-type="video/mp4"/>
    <item id="Vid4_vtt" href="videos/mmc04-02-9780323917544.vtt" media-type="text/vtt"/>
 
-   <item id="enhance_1" href="xhtml/samples_html5_player_videos.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+   <item id="enhance_1" href="xhtml/samples_html5_videos.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+   <item id="enhance_2" href="xhtml/samples_html5_Audios.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
    <item id="enhance_6" href="xhtml/Slide-Line.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
    <item id="enhance_7" href="xhtml/Slide-Line-Scroll.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
    <item id="enhance_8" href="xhtml/Test_Yourself.xhtml" media-type="application/xhtml+xml"/>
