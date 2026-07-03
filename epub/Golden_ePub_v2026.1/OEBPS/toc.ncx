@@ -54,9 +54,9 @@
 <navPoint id="toc45" playOrder="42"><navLabel><text>Quiz with Multiple Choice</text></navLabel><content src="xhtml/Quiz_with_Multiple_Choice.xhtml"/></navPoint>
 <navPoint id="toc46" playOrder="43"><navLabel><text>Quiz with Multiple Answer</text></navLabel><content src="xhtml/Quiz_with_Multiple_Answer.xhtml"/></navPoint>
 <navPoint id="toc47" playOrder="44"><navLabel><text>Quiz with True/False</text></navLabel><content src="xhtml/Quiz_with_True-False.xhtml"/></navPoint>
-<navPoint id="toc50" playOrder="50"><navLabel><text>Pop Tip (Remarks)</text></navLabel><content src="xhtml/PopTip.xhtml" /></navPoint>
-<navPoint id="toc51" playOrder="51"><navLabel><text>Html5 Player - Videos samples</text></navLabel><content src="xhtml/samples_html5_videos.xhtml#sv" /></navPoint>
-<navPoint id="toc52" playOrder="52"><navLabel><text>Html5 Player - Audios samples</text></navLabel><content src="xhtml/samples_html5_Audios.xhtml#sv" /></navPoint>
+<navPoint id="toc50" playOrder="91"><navLabel><text>Pop Tip (Remarks)</text></navLabel><content src="xhtml/PopTip.xhtml"/></navPoint>
+<navPoint id="toc51" playOrder="92"><navLabel><text>Html5 Player - Videos samples</text></navLabel><content src="xhtml/samples_html5_videos.xhtml#sv"/></navPoint>
+<navPoint id="toc52" playOrder="93"><navLabel><text>Html5 Player - Audios samples</text></navLabel><content src="xhtml/samples_html5_Audios.xhtml#sv"/></navPoint>
 </navMap>
 <pageList>
 <pageTarget type="front" value="page_i" playOrder="45"><navLabel><text>i</text></navLabel><content src="xhtml/Cover.xhtml#page_i"/></pageTarget>

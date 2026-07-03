@@ -113,12 +113,12 @@
    <item id="Vid4" href="videos/mmc04-02-9780323917544.mp4" media-type="video/mp4"/>
    <item id="Vid4_vtt" href="videos/mmc04-02-9780323917544.vtt" media-type="text/vtt"/>
 
-   <item id="enhance_1" href="xhtml/samples_html5_videos.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
-   <item id="enhance_2" href="xhtml/samples_html5_Audios.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
-   <item id="enhance_6" href="xhtml/Slide-Line.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
-   <item id="enhance_7" href="xhtml/Slide-Line-Scroll.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
-   <item id="enhance_8" href="xhtml/Test_Yourself.xhtml" media-type="application/xhtml+xml"/>
-   <item id="enhance_10" href="xhtml/PopTip.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="enhance_11" href="xhtml/samples_html5_videos.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+   <item id="enhance_12" href="xhtml/samples_html5_Audios.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+   <item id="enhance_13" href="xhtml/Slide-Line.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="enhance_14" href="xhtml/Slide-Line-Scroll.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="enhance_15" href="xhtml/Test_Yourself.xhtml" media-type="application/xhtml+xml"/>
+   <item id="enhance_16" href="xhtml/PopTip.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
    
    <item id="enhance_21" href="xhtml/ShortAnswer-upto5.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
    <item id="enhance_22" href="xhtml/ShortAnswer-upto10.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
