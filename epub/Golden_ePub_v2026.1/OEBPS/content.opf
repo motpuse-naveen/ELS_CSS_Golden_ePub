@@ -113,6 +113,24 @@
    <item id="Vid4" href="videos/mmc04-02-9780323917544.mp4" media-type="video/mp4"/>
    <item id="Vid4_vtt" href="videos/mmc04-02-9780323917544.vtt" media-type="text/vtt"/>
 
+   <item id="enhance_1" href="xhtml/samples_html5_player_videos.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+   <item id="enhance_6" href="xhtml/Slide-Line.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="enhance_7" href="xhtml/Slide-Line-Scroll.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="enhance_8" href="xhtml/Test_Yourself.xhtml" media-type="application/xhtml+xml"/>
+   <item id="enhance_10" href="xhtml/PopTip.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   
+   <item id="enhance_21" href="xhtml/ShortAnswer-upto5.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="enhance_22" href="xhtml/ShortAnswer-upto10.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="enhance_23" href="xhtml/ShortAnswer-above10.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+
+   <item id="enhance_24" href="xhtml/Fill-in-the-Blank-upto5.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="enhance_25" href="xhtml/Fill-in-the-Blank-upto10.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="enhance_26" href="xhtml/Fill-in-the-Blank-above10.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+
+   <item id="enhance_27" href="xhtml/Dropdowns-upto5.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="enhance_28" href="xhtml/Dropdowns-upto10.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="enhance_29" href="xhtml/Dropdowns-above10.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+
    <item id="Vid5" href="videos/Video-mmc2.mp4" media-type="video/mp4"/>
    <item id="Vid5_ad_vtt" href="videos/Video-mmc2-AD.vtt" media-type="text/vtt"/>
    <item id="Vid5_cc_vtt" href="videos/Video-mmc2-CC.vtt" media-type="text/vtt"/>
@@ -379,6 +397,46 @@
    <item id="ShowHide_8" href="images/dummy1.png" media-type="image/png"/>
    <item id="ShowHide_9" href="images/dummy2.png" media-type="image/png"/>
    <item id="ShowHide_10" href="images/dummy3.png" media-type="image/png"/>
+
+   <!--Inline Question Common Files-->
+   <item id="iq1" href="widgets/inline_questions/libs/jquery-3.6.0.min.js" media-type="text/javascript"/>
+   <item id="iq2" href="widgets/inline_questions/libs/jQuery.print.js" media-type="text/javascript"/>
+   <item id="iq3" href="widgets/inline_questions/libs/video.min.js" media-type="text/javascript"/>
+   <item id="iq4" href="widgets/inline_questions/question_handlers.js" media-type="text/javascript"/>
+   <item id="iq5" href="widgets/inline_questions/question_renderer.js" media-type="text/javascript"/>
+   <item id="iq6" href="widgets/inline_questions/libs/video-js.css" media-type="text/css"/>
+   <item id="iq7" href="widgets/inline_questions/questions.css" media-type="text/css"/>
+   <item id="iq8" href="widgets/inline_questions/audio.css" media-type="text/css"/>
+   <item id="iq9" href="widgets/inline_questions/images/correct.png" media-type="image/png"/>
+   <item id="iq10" href="widgets/inline_questions/images/incorrect.png" media-type="image/png"/>
+   <item id="iq11" href="widgets/inline_questions/fonts/FiraSans-Light.otf" media-type="font/otf"/>
+   <item id="iq12" href="widgets/inline_questions/fonts/FiraSans-ExtraBold.otf" media-type="font/otf"/>
+   <item id="iq13" href="widgets/inline_questions/fonts/FiraSans-Bold.otf" media-type="font/otf"/>
+   <item id="iq14" href="widgets/inline_questions/fonts/FiraSans-Regular.otf" media-type="font/otf"/>
+   <item id="iq15" href="widgets/inline_questions/images/minus.svg" media-type="image/svg+xml"/>
+   <item id="iq16" href="widgets/inline_questions/images/plus.svg" media-type="image/svg+xml"/>
+   <item id="iq17" href="widgets/inline_questions/images/image_zoom.svg" media-type="image/svg+xml"/>
+   <item id="iq18" href="widgets/inline_questions/images/check-feedback.svg" media-type="image/svg+xml"/>
+   <item id="iq19" href="widgets/inline_questions/images/x-feedback.svg" media-type="image/svg+xml"/>
+   <item id="iq20" href="widgets/inline_questions/images/tick-green.svg" media-type="image/svg+xml"/>
+   <item id="iq21" href="widgets/inline_questions/images/x-red.svg" media-type="image/svg+xml"/>
+
+   <item id="iqdata1" href="widgets/inline_questions/data/accordian_audio_data.js" media-type="text/javascript"/>
+   <item id="iqdata2" href="widgets/inline_questions/data/accordian_data.js" media-type="text/javascript"/>
+   <item id="iqdata3" href="widgets/inline_questions/data/dropdowns_data.js" media-type="text/javascript"/>
+   <item id="iqdata4" href="widgets/inline_questions/data/fill_In_the_blanks_data.js" media-type="text/javascript"/>
+   <item id="iqdata5" href="widgets/inline_questions/data/short_answer_data.js" media-type="text/javascript"/>
+
+   <item id="mpeg_1" href="widgets/inline_questions/data/audios/adenitis.mp3" media-type="audio/mpeg"/>
+   <item id="mpeg_2" href="widgets/inline_questions/data/audios/adenoma.mp3" media-type="audio/mpeg"/>
+   <item id="mpeg_3" href="widgets/inline_questions/data/audios/adenopathy.mp3" media-type="audio/mpeg"/>
+   <item id="mpeg_4" href="widgets/inline_questions/data/audios/anemia.mp3" media-type="audio/mpeg"/>
+   <item id="mpeg_5" href="widgets/inline_questions/data/audios/arthralgia.mp3" media-type="audio/mpeg"/>
+   <item id="mpeg_6" href="widgets/inline_questions/data/audios/arthritis.mp3" media-type="audio/mpeg"/>
+   <item id="mpeg_7" href="widgets/inline_questions/data/audios/autopsy.mp3" media-type="audio/mpeg"/>
+   <item id="mpeg_8" href="widgets/inline_questions/data/audios/biology.mp3" media-type="audio/mpeg"/>
+   <item id="mpeg_9" href="widgets/inline_questions/data/audios/biopsy.mp3" media-type="audio/mpeg"/>
+   <item id="mpeg_10" href="widgets/inline_questions/data/audios/carcinogenic.mp3" media-type="audio/mpeg"/>
 
    <!--Flashcard-->
    <item id="Flashcard_01_1" href="widgets/Flashcard/01/activity.html" media-type="text/html"/>
