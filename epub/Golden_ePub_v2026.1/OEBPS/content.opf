@@ -277,6 +277,27 @@
    <item id="enhance_7" href="xhtml/Quiz_with_Multiple_Answer.xhtml" media-type="application/xhtml+xml"/>
    <item id="enhance_8" href="xhtml/Quiz_with_True-False.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 
+   <!--Glossary(Dfn)-->
+   <item id="Glo_001" href="widgets/Glossary/css/style.css" media-type="text/css"/>
+   <item id="Glo_002" href="widgets/Glossary/fonts/InklingSerifWeb-Regular.ttf" media-type="font/ttf"/>
+   <item id="Glo_003" href="widgets/Glossary/fonts/InklingSerifWeb-Regular.woff" media-type="application/font-woff"/>
+   <item id="Glo_004" href="widgets/Glossary/fonts/SourceSansPro-Bold.ttf" media-type="font/ttf"/>
+   <item id="Glo_005" href="widgets/Glossary/fonts/SourceSansPro-Bold.woff" media-type="application/font-woff"/>
+   <item id="Glo_006" href="widgets/Glossary/fonts/SourceSansPro-Light.ttf" media-type="font/ttf"/>
+   <item id="Glo_007" href="widgets/Glossary/fonts/SourceSansPro-Light.woff" media-type="application/font-woff"/>
+   <item id="Glo_008" href="widgets/Glossary/fonts/SourceSansPro-Regular.ttf" media-type="font/ttf"/>
+   <item id="Glo_009" href="widgets/Glossary/fonts/SourceSansPro-Regular.woff" media-type="application/font-woff"/>
+   <item id="Glo_010" href="widgets/Glossary/images/abc.jpg" media-type="image/jpeg"/>
+   <item id="Glo_011" href="widgets/Glossary/images/glossry-img.png" media-type="image/png"/>
+   <item id="Glo_012" href="widgets/Glossary/images/icon_definition_blue.png" media-type="image/png"/>
+   <item id="Glo_013" href="widgets/Glossary/images/icon_link_blue.png" media-type="image/png"/>
+   <item id="Glo_014" href="widgets/Glossary/script/glossary-data.js" media-type="application/javascript"/>
+   <item id="Glo_015" href="widgets/Glossary/script/jquery-3.6.0.min.js" media-type="application/javascript"/>
+   <item id="Glo_016" href="widgets/Glossary/script/transcription.js" media-type="application/javascript"/>
+
+  <!--PopTip(Remarks)-->
+ <item id="poptip_014" href="widgets/Poptip/script/poptip-data.js" media-type="application/javascript"/>
+
    <!--MCMS-->
    <item id="mcms_1" href="widgets/MCMS/css/style.css" media-type="text/css"/>
    <item id="mcms_2" href="widgets/MCMS/images/assessment_check_large.png" media-type="image/png"/>
