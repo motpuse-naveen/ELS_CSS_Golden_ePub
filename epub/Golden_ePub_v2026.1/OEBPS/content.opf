@@ -112,6 +112,8 @@
    <item id="Vid3_txt" href="videos/9780443285646_0083-ad.txt" media-type="text/plain"/>
    <item id="Vid4" href="videos/mmc04-02-9780323917544.mp4" media-type="video/mp4"/>
    <item id="Vid4_vtt" href="videos/mmc04-02-9780323917544.vtt" media-type="text/vtt"/>
+   <item id="CHP002" href="xhtml/Ch002_Samples_of_Widget_Enhancements.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+  
 
    <item id="enhance_11" href="xhtml/samples_html5_videos.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
    <item id="enhance_12" href="xhtml/samples_html5_Audios.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
@@ -531,6 +533,21 @@
    <itemref idref="enhance_6" linear="yes"/>
    <itemref idref="enhance_7" linear="yes"/>
    <itemref idref="enhance_8" linear="yes"/>
+   <itemref idref="enhance_11" linear="yes"/>
+   <itemref idref="enhance_12" linear="yes"/>
+   <itemref idref="enhance_13" linear="yes"/>
+   <itemref idref="enhance_14" linear="yes"/>
+   <itemref idref="enhance_15" linear="yes"/>
+   <itemref idref="enhance_16" linear="yes"/>
+   <itemref idref="enhance_21" linear="yes"/>
+   <itemref idref="enhance_22" linear="yes"/>
+   <itemref idref="enhance_23" linear="yes"/>
+   <itemref idref="enhance_24" linear="yes"/>
+   <itemref idref="enhance_25" linear="yes"/>
+   <itemref idref="enhance_26" linear="yes"/>
+   <itemref idref="enhance_27" linear="yes"/>
+   <itemref idref="enhance_28" linear="yes"/>
+   <itemref idref="enhance_29" linear="yes"/>
 </spine>
 <guide>
    <reference type="cover" title="Cover" href="xhtml/Cover.xhtml"/>
