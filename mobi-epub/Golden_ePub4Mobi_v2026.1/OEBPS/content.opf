@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" prefix="tdm: http://www.w3.org/ns/tdmrep/" version="3.0" xml:lang="en" unique-identifier="p9780124046320">
+  <metadata>
+     <meta property="schema:accessMode">textual</meta>	
+     <meta property="schema:accessMode">visual</meta>
+     <meta property="schema:accessModeSufficient">textual</meta>
+     <meta property="schema:accessModeSufficient">textual, visual</meta>
+     <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+     <meta property="schema:accessibilityFeature">pageBreakMarkers</meta>
+     <meta property="schema:accessibilityFeature">displayTransformability</meta>
+     <meta property="schema:accessibilityFeature">MathML</meta>
+     <meta property="schema:accessibilityFeature">describedMath</meta>
+     <meta property="schema:accessibilityFeature">ARIA</meta>
+     <meta property="schema:accessibilityFeature">pageNavigation</meta>
+     <meta property="schema:accessibilityFeature">alternativeText</meta>
+     <meta property="schema:accessibilityFeature">longDescription</meta>
+     <meta property="schema:accessibilityFeature">tableOfContents</meta>
+     <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+     <meta property="schema:accessibilityFeature">index</meta>
+     <meta property="schema:accessibilityFeature">printPageNumbers</meta>
+     <meta property="schema:accessibilityFeature">readingOrder</meta>
+     <meta property="schema:accessibilityHazard">noFlashingHazard</meta>
+     <meta property="schema:accessibilityHazard">noSoundHazard</meta>
+     <meta property="schema:accessibilityHazard">noMotionSimulationHazard</meta>
+     <meta property="schema:accessibilitySummary">This publication complies with EPUB accessibility requirements and adheres to the Web Content Accessibility Guidelines (WCAG 2.2) at the AA level. It is screen-reader friendly and accessible to users of assistive technology. Multiple linked references to the same figure will have only one backlink to the first reference.</meta>
+     <meta property="tdm:reservation">1</meta>
+     <meta property="tdm:policy">https://www.elsevier.com/tdm/tdmrep-policy.json</meta>
+     <dc:identifier id="p9780124046320">urn:isbn:978-0-12-809343-6</dc:identifier>
+     <meta property="pageBreakSource">URN:ISBN: 978-0-12-809343-6</meta>
+     <meta property="dcterms:conformsTo" id="conf"> EPUB Accessibility 1.1 - WCAG 2.2 Level AA </meta>
+     <meta property="a11y:certifiedBy" refines="#conf" id="certifier">Benetech</meta>
+     <meta property="a11y:certifierCredential" refines="#certifier">Global Certified Accessible Credential</meta>
+     <meta property="dcterms:date" refines="#certifier">2024-05-09</meta>
+      <meta refines="#p9780124046320" property="identifier-type" scheme="onix:codelist5">15</meta>
+      <dc:title id="t1">Research Methods in Human-Computer Interaction</dc:title>
+      <meta refines="#t1" property="title-type">main</meta>
+      <meta refines="#t1" property="display-seq">1</meta>
+      <meta refines="#t1" property="group-position">2</meta>
+      <dc:creator id="creator01">Jonathan Lazar</dc:creator>
+      <meta refines="#creator01" property="role" scheme="marc:relators">aut</meta>
+      <meta refines="#creator01" property="display-seq">1</meta>
+      <meta refines="#creator01" property="file-as">Lazar, Jonathan</meta>
+      <dc:creator id="creator02">Jinjuan Heidi Feng</dc:creator>
+      <meta refines="#creator02" property="role" scheme="marc:relators">aut</meta>
+      <meta refines="#creator02" property="display-seq">2</meta>
+      <meta refines="#creator02" property="file-as">Feng, Jinjuan Heidi</meta>
+      <dc:creator id="creator03">Harry Hochheiser</dc:creator>
+      <meta refines="#creator03" property="role" scheme="marc:relators">aut</meta>
+      <meta refines="#creator03" property="display-seq">3</meta>
+      <meta refines="#creator03" property="file-as">Hochheiser, Harry</meta>
+      <dc:publisher>Elsevier Inc.</dc:publisher>
+      <dc:language>en</dc:language><dc:type>Text</dc:type>
+      <dc:format>56 pages</dc:format>
+      <dc:date>2024-05-09</dc:date>
+      <meta property="dcterms:modified">2024-05-09T15:30:00Z</meta>
+      <meta name="cover" content="cover-image"/>
+   </metadata>
+   <manifest>
+	<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+	<item id="nav" properties="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
+	<item id="PIN" href="xhtml/PIN.xhtml" media-type="application/xhtml+xml"/>
+	<item id="html-cover-page" href="xhtml/Cover.xhtml" media-type="application/xhtml+xml"/>
+	<item id="Title_page" href="xhtml/Title_page.xhtml" media-type="application/xhtml+xml"/>
+	<item id="Disclaimer" href="xhtml/Disclaimer.xhtml" media-type="application/xhtml+xml"/>
+	<item id="Contents" href="xhtml/Contents.xhtml" media-type="application/xhtml+xml"/>
+	<item id="Copyright" href="xhtml/Copyright_iv_B9780124158207000084.xhtml" media-type="application/xhtml+xml"/>
+	<item id="LOC" href="xhtml/ListOfContributors_v_B9780124158207000051.xhtml" media-type="application/xhtml+xml"/>
+	<item id="Dedication" href="xhtml/Dedication_vi_B9780124158207000064.xhtml" media-type="application/xhtml+xml"/>
+	<item id="Preface" href="xhtml/Preface_vii-xii_B9780124158207000164.xhtml" media-type="application/xhtml+xml"/>
+	<item id="Acknowledgments" href="xhtml/Acknowledgments_xiii-xiv_B9780124158207000073.xhtml" media-type="application/xhtml+xml"/>
+	<item id="Loi" href="xhtml/ListOfIllustrations_xv_B9780124158207000058.xhtml" media-type="application/xhtml+xml"/>
+	<item id="Lot" href="xhtml/ListOfTables_xvi_B9780124158207000154.xhtml" media-type="application/xhtml+xml"/>
+	<item id="Volume" href="xhtml/Volume.xhtml" media-type="application/xhtml+xml"/>	
+	<item id="CHP001" properties="mathml" href="xhtml/Ch001_1-18_B978012415820700007X.xhtml" media-type="application/xhtml+xml"/>
+	<item id="CHP001a" href="xhtml/Ch001_Extended_Fig1_1.xhtml" media-type="application/xhtml+xml"/>
+	<item id="cssme" href="styles/media.css" media-type="text/css"/>
+	<item id="cssma" href="styles/math.css" media-type="text/css"/>
+	<item id="css_synth" href="styles/synth.css" media-type="text/css"/>
+	<item href="styles/math.js" id="mathjs" media-type="text/javascript"/>
+	<item id="notoserif-bold" href="fonts/NotoSerif-Bold.ttf" media-type="application/vnd.ms-opentype"/>
+	<item id="notoserif-bolditalic" href="fonts/NotoSerif-BoldItalic.ttf" media-type="application/vnd.ms-opentype"/>
+	<item id="notoserif-italic" href="fonts/NotoSerif-Italic.ttf" media-type="application/vnd.ms-opentype"/>
+	<item id="notoserif-regular" href="fonts/NotoSerif-Regular.ttf" media-type="application/vnd.ms-opentype"/>
+	<item id="Appendix" href="xhtml/Appendix-A_19_B9780124158207000173.xhtml" media-type="application/xhtml+xml"/>
+	<item id="Glossary" href="xhtml/Glossary_20_B9780124158207000054.xhtml" media-type="application/xhtml+xml"/>
+	<item id="Bibliography" href="xhtml/Bibliography_21_B9780124158207000178.xhtml" media-type="application/xhtml+xml"/>	
+	<item id="IDX001" href="xhtml/Index_22_B9780124158207000044.xhtml" media-type="application/xhtml+xml"/>
+	<item id="css" href="styles/Elsevier_eBook.css" media-type="text/css"/>
+	<item id="cover-image" properties="cover-image" href="images/9780128093436_FC.jpg" media-type="image/jpeg"/>
+	<item id="Img1" href="images/publogo.jpg" media-type="image/jpeg"/>
+	<item id="Img1a" href="images/F00001Xicon01-9780443246036.jpg" media-type="image/jpeg"/>
+	<item id="Img2" href="images/F099990icon01-9780124158207.jpg" media-type="image/jpeg"/>
+	<item id="Img3" href="images/T000013tabT0010.jpg" media-type="image/jpeg"/>
+	<item id="Img4" href="images/T000013tabT0030.jpg" media-type="image/jpeg"/>
+	<item id="Img5" href="images/T000013tabT0030a.jpg" media-type="image/jpeg"/>
+	<item id="Img5a1" href="images/T000011tabT0030a.jpg" media-type="image/jpeg"/>
+	<item id="Img5a" href="images/T000013tabT0010G.jpg" media-type="image/jpeg"/>
+	<item id="Img6" href="images/F000013f01-01-9780124158207.jpg" media-type="image/jpeg"/>
+	<item id="Img7" href="images/F000013f01-02-9780124158207.jpg" media-type="image/jpeg"/>
+	<item id="Img8" href="images/F000013f01-03-9780124158207.jpg" media-type="image/jpeg"/>
+	<item id="Img9" href="images/chem.jpg" media-type="image/jpeg"/>
+	<item id="Img10" href="images/F000018si1.png" media-type="image/png"/>
+	<item id="Img10a" href="images/code.png" media-type="image/png"/>
+	<item id="Img11" href="images/F000029si1.png" media-type="image/png"/>
+	<item id="Img11a" href="images/chp001_gr001.jpg" media-type="image/jpeg"/>
+	<item id="Img12" href="images/F000036mmc03-01-9780128023198.jpg" media-type="image/jpeg"/>
+	<item id="Vid1" href="audiovideo/mmc03-01-9780128023198.mp4" media-type="video/mp4"/>
+	<item id="Vid2" href="audiovideo/mmc03-01-9780128023198.mp3" media-type="audio/mpeg"/>
+   </manifest>
+<spine page-progression-direction="ltr" toc="ncx">
+   <itemref idref="PIN" linear="yes"/>
+   <itemref idref="html-cover-page" linear="yes"/>
+   <itemref idref="Title_page" linear="yes"/>
+   <itemref idref="Disclaimer" linear="yes"/>
+   <itemref idref="Contents" linear="yes"/>
+   <itemref idref="Copyright" linear="yes"/>
+   <itemref idref="LOC" linear="yes"/>
+   <itemref idref="Dedication" linear="yes"/>
+   <itemref idref="Preface" linear="yes"/>
+   <itemref idref="Acknowledgments" linear="yes"/>
+   <itemref idref="Loi" linear="yes"/>
+   <itemref idref="Lot" linear="yes"/>
+   <itemref idref="Volume" linear="yes"/>
+   <itemref idref="CHP001" linear="yes"/>
+   <itemref idref="CHP001a" linear="yes"/>
+   <itemref idref="Appendix" linear="yes"/>
+   <itemref idref="Glossary" linear="yes"/>
+   <itemref idref="Bibliography" linear="yes"/>
+   <itemref idref="IDX001" linear="yes"/>
+</spine>
+<guide>
+   <reference type="cover" title="Cover" href="xhtml/Cover.xhtml"/>
+   <reference type="toc" title="Contents" href="xhtml/Contents.xhtml"/>
+</guide>
+</package>

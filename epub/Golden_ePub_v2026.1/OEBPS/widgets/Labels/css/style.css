@@ -220,7 +220,7 @@ html .ui-button.ui-state-disabled:active {
 	background-color: rgba(255, 255, 255, 0.8);
 	border-top: 1px solid #f7f7f7;
 	/*font-size: 14px;*/
-	line-height: 16px;
+	line-height: 1.5;
 	text-align: center;
 	box-sizing: border-box;
 	/*
@@ -277,7 +277,8 @@ html .ui-button.ui-state-disabled:active {
 	background-color: white;
 	position: relative;
 	margin: 0px auto 0;
-	height: calc(100vh - 0px);
+	min-height: 100vh;
+	height: auto;
 	overflow: hidden;
 }
 
@@ -350,7 +351,8 @@ span.hotspot2 {
 	left: 10px;
 	top: 5px;
 	color: #FFFFFF;
-	height: 25px;
+	min-height: 25px;
+	height: auto;
 	/*width: 128px;*/
 	background-position: 0 0;
 	background-repeat: no-repeat;
@@ -359,7 +361,8 @@ span.hotspot2 {
 	background-color: #027DB6;
 	border: none;
 	text-transform: uppercase;
-    padding-left: 30px;
+    padding: 4px 10px 4px 30px;
+	line-height: 1.5;
 }
 
 .poptip_btn:focus-visible {
@@ -551,7 +554,7 @@ span.hotspot2 {
 .tooltip .pin-inner-txt {
     font-weight: 400;
     text-align: left;
-    line-height: 1.2em;
+    line-height: 1.5;
     /*font-size: 85%;*/
 }
 .tooltip .pin-inner-txt p {
@@ -567,7 +570,7 @@ span.hotspot2 {
 	color: var(--blue);
 }
 sup {
-	line-height: 14px;
+	line-height: normal;
 }
 .tooltipInner.maxzindex{
 	z-index: 10 !important;

@@ -200,7 +200,7 @@ margin-bottom: 0em;
 color: #545454;
 margin-left: 0em;
 font-style: italic;
-margin-top: -0.75em;
+margin-top: 0.25em;
 }
 .authorsignature
 {
@@ -258,7 +258,7 @@ font-style: italic;
 {
 text-align: left;
 text-indent: -2em;
-margin-top: -0.5em;
+margin-top: 0em;
 padding-left: 2em;
 }
 /*-----------***Preface Styles - End***----------------*/
@@ -273,7 +273,8 @@ color: #266447;
 letter-spacing: 4px;
 text-align: left;
 text-indent: 0em;
-height: 40px;
+min-height: 40px;
+height: auto;
 width: 100%;
 padding-top: 6px;
 padding-left: 0px;
@@ -345,7 +346,7 @@ margin-left: 25px;
 text-align: left;
 text-indent: 0em;
 margin-top: 2.5em;
-margin-bottom: -0.75em;
+margin-bottom: 0.25em;
 font-size: 16px;
 font-style: oblique;
 color: #545454;
@@ -736,7 +737,7 @@ line-height: 1em;
 {
 font-style: italic;
 padding-left: 8px;
-line-height: 0em;
+line-height: 1.5em;
 font-size: 16px;
 }
 .Key_Term_Head
@@ -1451,7 +1452,7 @@ padding-left: 0em;
 padding-right: 0em;
 padding-bottom: 1em;
 margin-bottom: 1em;
-margin-top: -0.25em;
+margin-top: 0.25em;
 background-color: #E3F2E7;
 color: #000000;
 }
@@ -2764,7 +2765,7 @@ color: #535C05;
 {
 font-size: 16px;
 text-indent: 0em;
-line-height: 1.2px;
+line-height: 1.5em;
 margin-top: 1em;
 margin-bottom: 0.5em;
 font-weight: bold;
@@ -2993,7 +2994,7 @@ color: #545454;
 text-align: left;
 text-indent: 0em;
 margin-left: 8%;
-margin-top: -1em;
+margin-top: 0.5em;
 margin-bottom: 1em;
 }
 .Disp_Quote_Source
@@ -3004,7 +3005,7 @@ line-height: 1.5em;
 font-weight: normal;
 color: #545454;
 margin-left: 3%;
-margin-top: -1em;
+margin-top: 0.5em;
 margin-bottom: 1em;
 }
 .indextitle
@@ -3096,7 +3097,8 @@ text-indent:-1em;
 /*-----------***toc Page Styles - Start***----------------*/
 .CN
 {
-height: 40px;
+min-height: 40px;
+height: auto;
 width: 280px;
 background-color: #2E5D70;
 }
@@ -3170,7 +3172,7 @@ text-align: left;
 text-indent: 0em;
 border-bottom: #545454 solid 1px;
 margin-top: 2em;
-margin-bottom: -0.5em;
+margin-bottom: 0.5em;
 padding-bottom: 0.5em;
 }
 p.tocsecsubtitle
@@ -3232,7 +3234,8 @@ margin-left: 250px;
 #CN
 {
 background-color: #ffffff;
-height: 40px;
+min-height: 40px;
+height: auto;
 width: 230px;
 color: #800000;
 text-align: left;
@@ -3301,7 +3304,8 @@ color: #2E5D70;
 letter-spacing: 4px;
 text-align: left;
 text-indent: 0em;
-height: 40px;
+min-height: 40px;
+height: auto;
 width: 100%;
 padding-top: 6px;
 padding-left: 0px;
@@ -4322,7 +4326,8 @@ margin-bottom: 0.25em;
 }
 .SC
 {
-height: 40px;
+min-height: 40px;
+height: auto;
 width: 230px;
 color: #285362;
 text-align: left;
@@ -4740,7 +4745,7 @@ text-align: right;
 
 /******* RICE-25 (Chapter Opener Design) ********/
 .chaptitle{
-	line-height: 1.2em !important;
+	line-height: 1.5em;
 }
 
 .one .chapters{
@@ -4884,7 +4889,7 @@ sub, sup {
 /********** RICE-26 (Line Height increased of chap/Appendix title)***********/
 .fmtitle
 {
-line-height: 1.3em !important;
+line-height: 1.5em;
 }
 
 
@@ -5002,7 +5007,7 @@ display: table-cell;
 }
 
 .display .code > p + p{
-  margin-top: -0.8em;
+  margin-top: 0.5em;
 }
 
 
@@ -5027,7 +5032,7 @@ div[role="doc-pagebreak"]{
     padding: 2px 5px;
     text-align: center;
 	margin: 0 0 1rem 0;
-	white-space: nowrap;
+	white-space: normal;
 	visibility: hidden;
 	
 }
@@ -5045,7 +5050,7 @@ span[role="doc-pagebreak"]{
     text-align: center;
     margin-left: 0.2rem;
     margin-right: 0.2rem;
-	white-space: nowrap;
+	white-space: normal;
 }
 
 .image-right_back
