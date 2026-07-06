@@ -57,7 +57,7 @@
 <navPoint id="toc50" playOrder="91"><navLabel><text>Pop Tip (Remarks)</text></navLabel><content src="xhtml/PopTip.xhtml"/></navPoint>
 <navPoint id="toc51" playOrder="92"><navLabel><text>Html5 Player - Videos samples</text></navLabel><content src="xhtml/samples_html5_videos.xhtml#sv"/></navPoint>
 <navPoint id="toc52" playOrder="93"><navLabel><text>Html5 Player - Audios samples</text></navLabel><content src="xhtml/samples_html5_Audios.xhtml#sv"/></navPoint>
-<navPoint id="toc36" playOrder="36"><navLabel><text>Samples of Widget Enhancements</text></navLabel><content src="xhtml/Ch002_Samples_of_Widget_Enhancements.xhtml" /></navPoint>
+<navPoint id="toc53" playOrder="94"><navLabel><text>Samples of Widget Enhancements</text></navLabel><content src="xhtml/Ch002_Samples_of_Widget_Enhancements.xhtml" /></navPoint>
 </navMap>
 <pageList>
 <pageTarget type="front" value="page_i" playOrder="45"><navLabel><text>i</text></navLabel><content src="xhtml/Cover.xhtml#page_i"/></pageTarget>
@@ -106,6 +106,5 @@
 <pageTarget type="special" value="page_28" playOrder="88"><navLabel><text>28</text></navLabel><content src="xhtml/Quiz_with_Multiple_Choice.xhtml#page_28"/></pageTarget>
 <pageTarget type="special" value="page_29" playOrder="89"><navLabel><text>29</text></navLabel><content src="xhtml/Quiz_with_Multiple_Answer.xhtml#page_29"/></pageTarget>
 <pageTarget type="special" value="page_30" playOrder="90"><navLabel><text>30</text></navLabel><content src="xhtml/Quiz_with_True-False.xhtml#page_30"/></pageTarget>
-<pageTarget type="special" value="page_31" playOrder="101"><navLabel><text>26</text></navLabel><content src="xhtml/Ch002_Samples_of_Widget_Enhancements.xhtml#page_31"/></pageTarget>
 </pageList>
 </ncx>
