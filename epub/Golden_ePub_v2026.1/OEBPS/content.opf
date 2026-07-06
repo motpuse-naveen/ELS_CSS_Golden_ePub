@@ -548,6 +548,7 @@
    <itemref idref="enhance_27" linear="yes"/>
    <itemref idref="enhance_28" linear="yes"/>
    <itemref idref="enhance_29" linear="yes"/>
+   <itemref idref="CHP002" linear="yes"/>
 </spine>
 <guide>
    <reference type="cover" title="Cover" href="xhtml/Cover.xhtml"/>
