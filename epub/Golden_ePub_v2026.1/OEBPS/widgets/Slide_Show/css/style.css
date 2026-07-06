@@ -253,13 +253,14 @@
     padding: 1em;
     color: #191919;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.5;
     text-align: center;
     box-sizing: border-box;
     font-family: 'Conv_SourceSansPro-Regular', Verdana, Helvetica, sans-serif;
     background-color: rgba(255, 255, 255, 0.8);
     border-top: 1px solid #f7f7f7;
-    height: 49px;
+    min-height: 49px;
+    height: auto;
     overflow-y: auto;
     margin-top: 20px;
 }
@@ -385,7 +386,7 @@ div.aria-widget-vertical-slider .label {
 }
 
 sup {
-	line-height: 14px;
+	line-height: normal;
 }
 
 .inner-image-area {

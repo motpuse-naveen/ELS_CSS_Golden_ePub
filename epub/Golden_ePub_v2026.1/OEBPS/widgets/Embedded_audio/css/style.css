@@ -166,10 +166,11 @@ body.has-bottom-bar .bottom-bar-container {
 .audio-document-area {
 	background-color: #fff;
 	position: relative;
-	overflow: hidden;
+	overflow: auto;
 	max-width: 979px;
 	margin: 30px auto 0;
-	height: 240px;
+	min-height: 240px;
+	height: auto;
 }
 
 body.audiofigure-exhibit .bottom-bar .inline-audio {
@@ -193,7 +194,7 @@ body.audiofigure-exhibit .bottom-bar .inline-audio {
 
 .subcaption h1 {
 	font-size: 1.4em;
-	line-height: 1.3em;
+	line-height: 1.5;
 	font-weight: 600;
 	font-family: 'Conv_SourceSansPro-Regular', Verdana, Helvetica, sans-serif;
 }
@@ -836,7 +837,7 @@ h2.audio-title
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     font-size: 150%;
-    line-height: 1.3em;
+    line-height: 1.5;
 }
 
 .focus-input {
@@ -865,7 +866,7 @@ audio {
     display: block;
     position: unset;
     float: left;
-    line-height: 1.3em;
+    line-height: 1.5;
 	overflow: auto;
     padding: 5px 20px 10px 0;
 }

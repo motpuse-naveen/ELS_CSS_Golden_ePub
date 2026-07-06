@@ -68,7 +68,7 @@ body {
 }
 #questionName {
     /*font-size: 14px;*/
-    line-height: 20px;
+    line-height: 1.5;
     font-weight: 400;
     color: var(--primary-text);
     margin-bottom: 20px;
@@ -76,7 +76,7 @@ body {
 }
 .content-heading h5, .content-heading #subheading2, .content-heading #subheading3 {
     /*font-size: 14px;*/
-    line-height: 20px;
+    line-height: 1.5;
     font-weight: 400;
     color: var(--primary-text);
     margin-bottom: 20px;
@@ -404,6 +404,9 @@ i{
     line-height: 15px;
     outline: none;
     border: 1px solid transparent;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }
 .active, .slide-thumbnail:hover {
     opacity: 1;
@@ -420,8 +423,9 @@ i{
     background-position: center;
     font-weight: 500;
     font-size: 14px;
-    line-height: 26px;
+    line-height: 23px;
     border: 1px solid transparent;
+    vertical-align: middle;
 }
 .step.active::before, 
 .step.active:hover::before {
@@ -454,16 +458,18 @@ a.step.active:hover {
 }
 .step[data-correct="true"] {
     background-image: url(../images/check_normal.png);
-    background-position: bottom;
+    background-position: center center;
     background-size: 24px;
     background-repeat: no-repeat;
     font-size: 0px;
+    line-height: 23px;
 }
 .step.active[data-correct="true"], .step.active[data-correct="true"]:hover {
     background-repeat: no-repeat;
-    background-position: bottom;
+    background-position: center center;
     background-size: 24px;
     font-size: 0px;
+    line-height: 23px;
 }
 .step[data-correct="true"]:hover {
     background-size: 0px;
@@ -477,17 +483,19 @@ a.step.active:hover {
 }
 
 .step.active[data-correct="false"], .step.active[data-correct="false"]:hover {
-    background-position: bottom;
+    background-position: center center;
     background-size: 24px;
     background-repeat: no-repeat;
     font-size: 0px;
+    line-height: 23px;
 }
 .step[data-correct="false"] {
     background-image: url(../images/false_red.png);
-    background-position: bottom;
+    background-position: center center;
     background-size: 24px;
     background-repeat: no-repeat;
     font-size: 0px;
+    line-height: 23px;
 }
 .step[data-correct="false"]:hover {
     background-size: 0px;
