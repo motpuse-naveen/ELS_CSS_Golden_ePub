@@ -4948,3 +4948,33 @@ right: 0;
 .hidden{
 	display: none !important;
  }
+
+/********** WCAG 1.4.12 (Text Spacing) ***********/
+body p,
+body li,
+body dd,
+body dt,
+body blockquote,
+body .text,
+body .textfl,
+body .biography,
+body .stereo,
+body .ttextfl{
+	line-height: 1.5 !important;
+	word-spacing: 0.16em !important;
+}
+
+/* Paragraph spacing target: 2 x line-height = 3em (for 1.5 line-height) */
+body p:not(:empty) + p:not(:empty),
+body .text:not(:empty) + .text:not(:empty),
+body .textfl:not(:empty) + .textfl:not(:empty),
+body .text:not(:empty) + .textfl:not(:empty),
+body .textfl:not(:empty) + .text:not(:empty),
+body .biography:not(:empty) + .biography:not(:empty),
+body .stereo:not(:empty) + .stereo:not(:empty),
+body .ttextfl:not(:empty) + .ttextfl:not(:empty),
+body dd:not(:empty) + dd:not(:empty),
+body dt:not(:empty) + dt:not(:empty),
+body blockquote:not(:empty) + blockquote:not(:empty){
+	margin-top: 3em !important;
+}
