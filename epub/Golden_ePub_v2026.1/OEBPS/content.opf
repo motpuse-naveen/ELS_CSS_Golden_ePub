@@ -112,6 +112,10 @@
    <item id="Vid3_txt" href="videos/9780443285646_0083-ad.txt" media-type="text/plain"/>
    <item id="Vid4" href="videos/mmc04-02-9780323917544.mp4" media-type="video/mp4"/>
    <item id="Vid4_vtt" href="videos/mmc04-02-9780323917544.vtt" media-type="text/vtt"/>
+   <item id="Vid6" href="videos/mmc25-02-9780128203484.mp4" media-type="video/mp4"/>
+   <item id="Vid6_vtt" href="videos/mmc25-02-9780128203484_ad.vtt" media-type="text/vtt"/>
+   <item id="vid_3" href="https://static.us.elsevierhealth.com/knechtle_9_9780443113291/9780443113291_0005.m3u8" media-type="video/x-mpegurl"/>
+	<item id="vid_4" href="https://static.us.elsevierhealth.com/knechtle_9_9780443113291/9780443113291_0005.vtt" media-type="text/vtt"/>
    <item id="CHP002" href="xhtml/Ch002_Samples_of_Widget_Enhancements.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
   
 
@@ -295,8 +299,89 @@
    <item id="Glo_015" href="widgets/Glossary/script/jquery-3.6.0.min.js" media-type="application/javascript"/>
    <item id="Glo_016" href="widgets/Glossary/script/transcription.js" media-type="application/javascript"/>
 
+   <!-- Widget -->
+   <item id="wid_108" href="widgets/common_assets/css/casestudy.css" media-type="text/css"/>
+
+   <!--TestYourself-->
+   <item id="ty_1" href="widgets/Labels/xhtml/ch02_testyourself_09.xhtml" properties="scripted" media-type="application/xhtml+xml" />
+   <item id="ty_2" href="widgets/Labels/css/device.css" media-type="text/css" />
+   <item id="ty_3" href="widgets/Labels/css/style.css" media-type="text/css" />
+   <item id="ty_4_1" href="widgets/Labels/images/image_figure_test_yourself_btn_wt.png" media-type="image/png" />
+   <item id="ty_8" href="widgets/Labels/images/pl002-0009-9780323393225.jpg" media-type="image/jpeg" />
+   <item id="ty_9" href="widgets/Labels/images/pl002-0009a-9780323393225.jpg" media-type="image/jpeg" />
+   <item id="ty_11" href="widgets/Labels/script/jquery-3.6.0.min.js" media-type="text/javascript" />
+   <item id="ty_10" href="widgets/Labels/images/web_arrow_poptip.png" media-type="image/png" />
+   <item id="ty_12" href="widgets/Labels/script/jquery-ui.min.js" media-type="text/javascript" />
+   <item id="ty_13" href="widgets/Labels/script/main.js" media-type="text/javascript" />
+   <item id="ty_14" href="widgets/Labels/script/ui-touch-punch.js" media-type="text/javascript" />
+   
   <!--PopTip(Remarks)-->
- <item id="poptip_014" href="widgets/Poptip/script/poptip-data.js" media-type="application/javascript"/>
+  <item id="poptip_014" href="widgets/Poptip/script/poptip-data.js" media-type="application/javascript"/>
+
+ <!--SlideLine-->
+   <item id="sl_1" href="widgets/Slide_Line/Image_Slider/css/header_style.css" media-type="text/css"/>
+   <item id="sl_2" href="widgets/Slide_Line/Image_Slider/css/style.css" media-type="text/css"/>
+   <item id="sl_5" href="widgets/Slide_Line/Image_Slider/fonts/SourceSansPro-Light.woff" media-type="application/font-woff"/>
+   <item id="sl_3" href="widgets/Slide_Line/Image_Slider/fonts/InklingSerifWeb-Regular.ttf" media-type="font/ttf"/>
+   <item id="sl_4" href="widgets/Slide_Line/Image_Slider/fonts/InklingSerifWeb-Regular.woff" media-type="application/font-woff"/>
+   <item id="sl_6" href="widgets/Slide_Line/Image_Slider/fonts/SourceSansPro-Light.ttf" media-type="font/ttf"/>
+   <item id="sl_7" href="widgets/Slide_Line/Image_Slider/images/ch01_figure_text_13a.png" media-type="image/png"/>
+   <item id="sl_8" href="widgets/Slide_Line/Image_Slider/images/ch01_figure_text_13b.png" media-type="image/png"/>
+   <item id="sl_9" href="widgets/Slide_Line/Image_Slider/images/ch01_figure_text_13c.png" media-type="image/png"/>
+   <item id="sl_10" href="widgets/Slide_Line/Image_Slider/images/ch01_figure_text_13d.png" media-type="image/png"/>
+   <item id="sl_11" href="widgets/Slide_Line/Image_Slider/images/image_figure_controls.png" media-type="image/png"/>
+   <item id="sl_12" href="widgets/Slide_Line/Image_Slider/images/navbar_minus.png" media-type="image/png"/>
+   <item id="sl_13" href="widgets/Slide_Line/Image_Slider/images/navbar_plus.png" media-type="image/png"/>
+   <item id="sl_19" href="widgets/Slide_Line/Image_Slider/script/img-slider2.js" media-type="text/javascript" />
+   <item id="sl_20" href="widgets/Slide_Line/Image_Slider/script/img-slider-main.js" media-type="text/javascript" />
+   <item id="sl_21" href="widgets/Slide_Line/Image_Slider/script/jquery-3.6.0.min.js" media-type="application/javascript"/>
+   <item id="sl_22" href="widgets/Slide_Line/Image_Slider/script/jquery-ui.min.js" media-type="application/javascript"/>
+   <item id="sl_23" href="widgets/Slide_Line/Image_Slider/script/slider-a11y.js" media-type="text/javascript" />
+   <item id="sl_24" href="widgets/Slide_Line/Image_Slider/script/ui-touch-punch.js" media-type="text/javascript" />
+   <item id="sl_25" href="widgets/Slide_Line/Image_Slider/xhtml/ch01_slideline_21.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="sl_26" href="widgets/Slide_Line/Image_Slider/xhtml/ch53_slideline_10.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="sl_28" href="widgets/Slide_Line/Image_Slider/images/ch53_figure_text_10a.png" media-type="image/png"/>
+   <item id="sl_29" href="widgets/Slide_Line/Image_Slider/images/ch53_figure_text_10b.png" media-type="image/png"/>
+   <item id="sl_30" href="widgets/Slide_Line/Image_Slider/images/ch53_figure_text_10c.png" media-type="image/png"/>
+
+   <!--SlideLine Scroll-->
+   <item id="slscroll_1" href="widgets/Slide_Line/Image_Slider_Scroll/css/header_style.css" media-type="text/css"/>
+   <item id="slscroll_2" href="widgets/Slide_Line/Image_Slider_Scroll/css/style.css" media-type="text/css"/>
+   <item id="slscroll_3" href="widgets/Slide_Line/Image_Slider_Scroll/fonts/InklingSerifWeb-Regular.ttf" media-type="font/ttf"/>
+   <item id="slscroll_4" href="widgets/Slide_Line/Image_Slider_Scroll/fonts/InklingSerifWeb-Regular.woff" media-type="application/font-woff"/>
+   <item id="slscroll_5" href="widgets/Slide_Line/Image_Slider_Scroll/fonts/SourceSansPro-Light.woff" media-type="application/font-woff"/>
+   <item id="slscroll_6" href="widgets/Slide_Line/Image_Slider_Scroll/fonts/SourceSansPro-Light.ttf" media-type="font/ttf"/>
+   <item id="slscroll_11" href="widgets/Slide_Line/Image_Slider_Scroll/images/image_figure_controls.png" media-type="image/png"/>
+   <item id="slscroll_12" href="widgets/Slide_Line/Image_Slider_Scroll/images/navbar_minus.png" media-type="image/png"/>
+   <item id="slscroll_13" href="widgets/Slide_Line/Image_Slider_Scroll/images/navbar_plus.png" media-type="image/png"/>
+   <item id="slscroll_19" href="widgets/Slide_Line/Image_Slider_Scroll/script/img-slider2.js" media-type="text/javascript" />
+   <item id="slscroll_20" href="widgets/Slide_Line/Image_Slider_Scroll/script/img-slider-main.js" media-type="text/javascript" />
+   <item id="slscroll_21" href="widgets/Slide_Line/Image_Slider_Scroll/script/jquery-3.6.0.min.js" media-type="application/javascript"/>
+   <item id="slscroll_22" href="widgets/Slide_Line/Image_Slider_Scroll/script/jquery-ui.min.js" media-type="application/javascript"/>
+   <item id="slscroll_23" href="widgets/Slide_Line/Image_Slider_Scroll/script/slider-a11y.js" media-type="text/javascript" />
+   <item id="slscroll_24" href="widgets/Slide_Line/Image_Slider_Scroll/script/ui-touch-punch.js" media-type="text/javascript" />
+   <item id="slscroll_25" href="widgets/Slide_Line/Image_Slider_Scroll/xhtml/ch03_slideline_04.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="slscroll_26" href="widgets/Slide_Line/Image_Slider_Scroll/xhtml/ch55_slideline_10.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="slscroll_27" href="widgets/Slide_Line/Image_Slider_Scroll/xhtml/Image_Slider_Scroll.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="slscroll_29" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch03_figure_text_04a.png" media-type="image/png"/>
+   <item id="slscroll_30" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch03_figure_text_04b.png" media-type="image/png"/>
+   <item id="slscroll_31" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch03_figure_text_04c.png" media-type="image/png"/>
+   <item id="slscroll_32" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch03_figure_text_04d.png" media-type="image/png"/>
+   <item id="slscroll_33" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch03_figure_text_04e.png" media-type="image/png"/>
+   <item id="slscroll_34" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch03_figure_text_04f.png" media-type="image/png"/>
+   <item id="slscroll_35" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch55_figure_text_10a.png" media-type="image/png"/>
+   <item id="slscroll_36" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch55_figure_text_10b.png" media-type="image/png"/>
+   <item id="slscroll_37" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch55_figure_text_10c.png" media-type="image/png"/>
+   <item id="slscroll_38" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch55_figure_text_10d.png" media-type="image/png"/>
+   <item id="slscroll_39" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch55_figure_text_10e.png" media-type="image/png"/>
+   <item id="slscroll_40" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch55_figure_text_10f.png" media-type="image/png"/>
+   <item id="slscroll_41" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch55_figure_text_10g.png" media-type="image/png"/>
+   <item id="slscroll_42" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch01_figure_text_14a.png" media-type="image/png"/>
+   <item id="slscroll_43" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch01_figure_text_14b.png" media-type="image/png"/>
+   <item id="slscroll_44" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch01_figure_text_14c.png" media-type="image/png"/>
+   <item id="slscroll_45" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch01_figure_text_14d.png" media-type="image/png"/>
+   <item id="slscroll_46" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch01_figure_text_14e.png" media-type="image/png"/>
+   <item id="slscroll_47" href="widgets/Slide_Line/Image_Slider_Scroll/images/ch01_figure_text_14f.png" media-type="image/png"/>
 
    <!--MCMS-->
    <item id="mcms_1" href="widgets/MCMS/css/style.css" media-type="text/css"/>
