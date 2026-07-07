@@ -106,6 +106,36 @@
 	<item id="Img12" href="images/F000036mmc03-01-9780128023198.jpg" media-type="image/jpeg"/>
 	<item id="Vid1" href="audiovideo/mmc03-01-9780128023198.mp4" media-type="video/mp4"/>
 	<item id="Vid2" href="audiovideo/mmc03-01-9780128023198.mp3" media-type="audio/mpeg"/>
+   <item id="Vid3" href="videos/mmc03-01-9780128023198.mp4" media-type="video/mp4"/>
+   <item id="Vid3_vtt" href="videos/mmc03-01-9780128023198.vtt" media-type="text/vtt"/>
+   <item id="Vid4" href="videos/9780443285646_0083.mp4" media-type="video/mp4"/>
+   <item id="Vid4_vtt" href="videos/9780443285646_0083-ad.vtt" media-type="text/vtt"/>
+   <item id="Vid6" href="videos/mmc25-02-9780128203484.mp4" media-type="video/mp4"/>
+   <item id="Vid6_vtt" href="videos/mmc25-02-9780128203484_ad.vtt" media-type="text/vtt"/>
+   <item id="sh_08" href="widgets/common_assets/css/variables.css" media-type="text/css"/>
+   <item id="sh_06" href="widgets/common_assets/css/common.css" media-type="text/css"/>
+   <item id="math_92" href="widgets/common_assets/scripts/mathjax/tex-mml-chtml.js" media-type="application/javascript"/>
+   <item id="Update_06" href="widgets/common_assets/scripts/hlsjs/hls.min.js" media-type="application/javascript"/>
+   <item id="math_100" href="widgets/common_assets/scripts/video-tracker.js" media-type="application/javascript"/>
+   <item id="math_101" href="widgets/common_assets/scripts/common.js" media-type="application/javascript"/>
+   <item id="enhance_11" href="xhtml/samples_html5_videos.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+   <item id="enhance_12" href="xhtml/samples_html5_Audios.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+   <item id="aud_1" href="widgets/Embedded_audio/fonts/InklingSerifWeb-Regular.ttf" media-type="font/ttf"/>
+   <item id="aud_2" href="widgets/Embedded_audio/fonts/InklingSerifWeb-Regular.woff" media-type="application/font-woff"/>
+   <item id="aud_3" href="widgets/Embedded_audio/fonts/SourceSansPro-Regular.ttf" media-type="font/ttf"/>
+   <item id="aud_16" href="widgets/Embedded_audio/images/audio_figure_volume_indicator.png" media-type="image/png"/>
+   <item id="aud_17" href="widgets/Embedded_audio/images/play_pause@2x.png" media-type="image/png"/>
+   <item id="aud_18_1" href="widgets/Embedded_audio/images/Expand_N.svg" media-type="image/svg+xml"/>
+   <item id="aud_18_2" href="widgets/Embedded_audio/images/Collapse_N.svg" media-type="image/svg+xml"/>
+   <item id="aud_18_3" href="widgets/Embedded_audio/images/Expand_Hover_N.svg" media-type="image/svg+xml"/>
+   <item id="aud_18_4" href="widgets/Embedded_audio/images/Collapse_hover_N.svg" media-type="image/svg+xml"/>
+   <item id="aud_15" href="widgets/Embedded_audio/css/style.css" media-type="text/css"/>
+   <item id="aud_19" href="widgets/Embedded_audio/script/jquery-3.6.0.min.js" media-type="text/javascript"/>
+   <item id="aud_20" href="widgets/Embedded_audio/script/jquery-ui.min.js" media-type="text/javascript"/>
+   <item id="aud_23" href="widgets/Embedded_audio/xhtml/audio-with-closed-captions.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="aud_24" href="widgets/Embedded_audio/xhtml/audio-without-closed-captions.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="Aud1" href="videos/Audio-mmc3-cc.mp3" media-type="audio/mpeg"/>
+   <item id="Aud1_vtt" href="videos/Audio-mmc3-cc.vtt" media-type="text/vtt"/>
    </manifest>
 <spine page-progression-direction="ltr" toc="ncx">
    <itemref idref="PIN" linear="yes"/>
@@ -127,6 +157,8 @@
    <itemref idref="Glossary" linear="yes"/>
    <itemref idref="Bibliography" linear="yes"/>
    <itemref idref="IDX001" linear="yes"/>
+   <itemref idref="enhance_11" linear="yes"/>
+   <itemref idref="enhance_12" linear="yes"/>
 </spine>
 <guide>
    <reference type="cover" title="Cover" href="xhtml/Cover.xhtml"/>
