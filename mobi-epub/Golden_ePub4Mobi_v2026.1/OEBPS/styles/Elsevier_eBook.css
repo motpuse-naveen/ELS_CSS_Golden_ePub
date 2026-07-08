@@ -37,6 +37,11 @@ body
 	color: #2E2E2E;
 }
 
+iframe {
+    border: none;
+    width: 100%;
+}
+
 /*-----------***Title Page Styles - Start***----------------*/
 .book_halftitle
 {

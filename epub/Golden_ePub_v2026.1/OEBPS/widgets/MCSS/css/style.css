@@ -23,6 +23,9 @@ body {
     height: 100%;
     text-indent: 0em;
 }
+.mcq .mcq_inner, .mcq .tab-content a[href]{
+    background: none
+}
 .mcq_inner .tab-pane-main {
     height: calc(100% - 85px);
     overflow-x: hidden;
